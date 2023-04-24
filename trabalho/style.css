@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    background-color:  #fbf3f3;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logofia{
+    width: 60%;
+}
+
+.logof1{
+    width: 40%;
+    
+}
+
+.titulo1{
+    font-family: Cambria;
+    font-size: 30px;
+    text-align: center;
+}
+
+tr{
+    text-align: center;
+}
+
+table{
+    background-color: rgb(255, 254, 254);
+    border: 1px solid rgb(170, 170, 180);
+}
+
+.australia{
+    position: relative;
+    text-align: left;
+
+}
+
+.bahrein{
+    position: relative;
+    text-align: center;
+
+}
+
+.tabela1{
+    position: relative;
+    
+
+}
+
+.tabela2{
+    position: relative;
+
+}
+
+.cde{
+        position: relative;
+
+}
+
+.ptal{
+    position: relative;
+
+}
+
+.arabia{
+    position: relative;
+
+
+}
+
+.borda1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.tabela3{
+    position: relative;
+
+}
+
+.tabela4{
+    position: relative;
+}
+
+.tabela6{
+    position: relative;
+}
+
+.tabela7{
+    position: relative;
+
+}
+
+.tabela8{
+    position: relative;
+
+}
+
+.cde3{
+    position: relative;
+
+}
+
+.cde4{
+    position: relative;
+}
+
+.tabela9{
+    position: relative;
+
+}
+
+.tabela10{
+    position: relative;
+
+}
+
+.tabela11{
+    border-collapse: collapse;
+    text-align: center;
+    color: rgb(10, 10, 10);
+    position: relative;
+
+}
+
+.ptal2{
+    position: relative;
+
+}
+
+
+.divtitulo{
+    border: 1px solid rgb(0, 0, 0);
+ 
+    width: 25cm;
+    position: relative;
+    border-style: solid;
+    border-radius:100px;
+}
+
+.tamanho1{
+    width: 130px;
+}
+
+.tabelateste{
+    border-radius: 60px;
+}
+.logoequipe{
+    width: 80px;
+    float: right;
+}
+
+.paises{
+    width: 45px;
+}
+.equipes2 *{ 
+    vertical-align: middle;
+    display: inline-block;
+}
